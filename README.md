@@ -1,6 +1,6 @@
-Recipe App
+# Recipe App
 
-Tech stack:
+### Tech stack:
 - HTML
 - CSS
 - Vanilla JavaScript
